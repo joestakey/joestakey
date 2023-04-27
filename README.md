@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Joe Stakey</h1>
-<h3 align="center">Web3 developer, building in the Ethereum ecosystem. Currently focusing on ZK</h3>
+<h3 align="center">Smart contract security consultant and developer, building in the Ethereum ecosystem. Currently focusing on Starknet</h3>
 <h3 align="center">
 <img src="assets/background.png" /> </h3>
 
-<p align="left"> I'm a web developper </p>
+<p align="left"> Smart contract security consultant </p>
 
-- 🌱 I’m currently learning **Cairo**, to build Dapps in **StarkNet**
-- 🔭 I have worked and deployed smart contracts on **Ethereum** and **Polygon**.
+- 🌱 Smart contract auditor - 100+ High and Medium severity findings on code4arena and Sherlock contests.
+- 🛠 Building contracts on EVM chains and Starknet.
 
 
 
